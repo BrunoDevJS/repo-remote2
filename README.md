@@ -1,20 +1,21 @@
+
 # Curso Git e Gihub
 
 Teste de uso de readme.md no site github como teste do curso de Git e Gihub do site da [DioMe](https://www.dio.me/).
 
-## ?? Documentação
+## ðŸ“– DocumentaÃ§Ã£o:
 
-- [Documentação Git](https://git-scm.com/doc)
-- [Documentação GitHub](https://docs.github.com/)
+- [DocumentaÃ§Ã£o Git](https://git-scm.com/doc)
+- [DocumentaÃ§Ã£o GitHub](https://docs.github.com/)
 
 ## Resumo das aulas:
 
 | Aulas | Resumos |
 |----| ----|
-| Gravando alterações | [Resumo]() |
+| Gravando alteraÃ§Ãµes | [Resumo]() |
 
 ```
-# códigos:
+# cÃ³digos:
 
 git init
 
@@ -24,6 +25,7 @@ git status
 
 ```
 
-# Referências:
+# ReferÃªncias:
 
 - [Bruno Full Stack Developer](https://github.com/BrunoDevJS/).
+
