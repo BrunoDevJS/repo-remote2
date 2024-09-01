@@ -12,7 +12,8 @@ Teste de uso de readme.md no site github como teste do curso de Git e Gihub do s
 
 | Aulas | Resumos |
 |----| ----|
-| Gravando alterações | [Resumo]() |
+| Aula 01 - Salvar Alterações 💾 | [Aula 01]() |
+| Aula 02 - Comandos do git  🔑 | [Aula 02]() |
 
 ```
 # códigos:
